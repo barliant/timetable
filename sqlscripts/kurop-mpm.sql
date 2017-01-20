@@ -1,0 +1,60 @@
+CREATE TABLE mpm (
+  prodi NUMBER NOT NULL,
+  kode TEXT(6) NOT NULL,
+  kuliah TEXT NOT NULL
+);
+
+INSERT INTO mpm VALUES (5, 'ISL304', 'Analisa Proses Bisnis');
+INSERT INTO mpm VALUES (5, 'IKS323', 'Analisis dan Pemodelan Perangkat Lunak');
+INSERT INTO mpm VALUES (3, 'IKS323', 'Analisis dan Pemodelan Perangkat Lunak');
+INSERT INTO mpm VALUES (3, 'IKS323', 'Analisis dan Pemodelan Perangkat Lunak');
+INSERT INTO mpm VALUES (2, 'IKS323', 'Analisis dan Pemodelan Perangkat Lunak');
+INSERT INTO mpm VALUES (2, 'IKS323', 'Analisis dan Pemodelan Perangkat Lunak');
+INSERT INTO mpm VALUES (4, 'ISM314', 'Audit Sistem Informasi');
+INSERT INTO mpm VALUES (5, 'ISM314', 'Audit Sistem Informasi');
+INSERT INTO mpm VALUES (1, 'IKL335', 'Dasar Pemrograman');
+INSERT INTO mpm VALUES (1, 'IKL335', 'Dasar Pemrograman');
+INSERT INTO mpm VALUES (3, 'IKS327', 'Desain Perangkat Lunak');
+INSERT INTO mpm VALUES (5, 'IKS327', 'Desain Perangkat Lunak');
+INSERT INTO mpm VALUES (2, 'IKS327', 'Desain Perangkat Lunak');
+INSERT INTO mpm VALUES (4, 'IKH328', 'Forensik Komputer dan Jaringan');
+INSERT INTO mpm VALUES (4, 'IKH328', 'Forensik Komputer dan Jaringan');
+INSERT INTO mpm VALUES (3, 'IKG401', 'Grafika Komputer');
+INSERT INTO mpm VALUES (1, 'IKH313', 'Jaringan Komputer dan Keamanan');
+INSERT INTO mpm VALUES (1, 'IKH313', 'Jaringan Komputer dan Keamanan');
+INSERT INTO mpm VALUES (5, 'IKH323', 'Keamanan Informasi');
+INSERT INTO mpm VALUES (3, 'IKH323', 'Keamanan Informasi');
+INSERT INTO mpm VALUES (4, 'IKH323', 'Keamanan Informasi');
+INSERT INTO mpm VALUES (2, 'IKH323', 'Keamanan Informasi');
+INSERT INTO mpm VALUES (4, 'IKD312', 'Manajemen Data dan Informasi');
+INSERT INTO mpm VALUES (5, 'IKD312', 'Manajemen Data dan Informasi');
+INSERT INTO mpm VALUES (3, 'IKD312', 'Manajemen Data dan Informasi');
+INSERT INTO mpm VALUES (2, 'IKD312', 'Manajemen Data dan Informasi');
+INSERT INTO mpm VALUES (4, 'ISM401', 'Manajemen Proyek Teknologi Informasi');
+INSERT INTO mpm VALUES (3, 'ISM401', 'Manajemen Proyek Teknologi Informasi');
+INSERT INTO mpm VALUES (2, 'ISM401', 'Manajemen Proyek Teknologi Informasi');
+INSERT INTO mpm VALUES (5, 'ISM401', 'Manajemen Proyek Teknologi Informasi');
+INSERT INTO mpm VALUES (3, 'IKS304', 'Metode Berorientasi Objek');
+INSERT INTO mpm VALUES (5, 'IKS304', 'Metode Berorientasi Objek');
+INSERT INTO mpm VALUES (2, 'IKS304', 'Metode Berorientasi Objek');
+INSERT INTO mpm VALUES (4, 'IKH316', 'Model dan Arsitektur Keamanan Informasi');
+INSERT INTO mpm VALUES (3, 'IKL233', 'Pemodelan Geometri');
+INSERT INTO mpm VALUES (5, 'ISM313', 'Pengantar Audit Sistem Informasi');
+INSERT INTO mpm VALUES (4, 'IKH329', 'Pengelolaan Keamanan Informasi');
+INSERT INTO mpm VALUES (5, 'ISO301', 'Pengelolaan Sistem Informasi');
+INSERT INTO mpm VALUES (2, 'IKH326', 'Perencanaan Kontinyuitas Bisnis');
+INSERT INTO mpm VALUES (3, 'IKH326', 'Perencanaan Kontinyuitas Bisnis');
+INSERT INTO mpm VALUES (4, 'IKH326', 'Perencanaan Kontinyuitas Bisnis');
+INSERT INTO mpm VALUES (4, 'IKG321', 'Rekayasa Sistem Multimedia');
+INSERT INTO mpm VALUES (3, 'IKG321', 'Rekayasa Sistem Multimedia');
+INSERT INTO mpm VALUES (5, 'IKS308', 'Sistem Informasi Manajemen');
+INSERT INTO mpm VALUES (1, 'IKH311', 'Sistem Operasi');
+INSERT INTO mpm VALUES (1, 'IKH311', 'Sistem Operasi');
+INSERT INTO mpm VALUES (2, 'IKH314', 'Sistem Pengendalian Akses');
+INSERT INTO mpm VALUES (3, 'IKH314', 'Sistem Pengendalian Akses');
+INSERT INTO mpm VALUES (4, 'IKH314', 'Sistem Pengendalian Akses');
+INSERT INTO mpm VALUES (1, 'IUM461', 'Struktur Diskrit I');
+INSERT INTO mpm VALUES (1, 'IUM461', 'Struktur Diskrit I');
+INSERT INTO mpm VALUES (4, 'IKH318', 'Verifikasi dan Validasi Keamanan Informasi');
+INSERT INTO mpm VALUES (3, 'IKS318', 'Verifikasi dan Validasi Perangkat Lunak');
+INSERT INTO mpm VALUES (2, 'IKS318', 'Verifikasi dan Validasi Perangkat Lunak');

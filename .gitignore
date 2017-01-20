@@ -1,4 +1,8 @@
 *.lyx~
+*.pdf
+*.xls
+*.rtf
+*.csv
 *.db
 *.s3db
 logbook/

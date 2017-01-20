@@ -1,0 +1,16 @@
+* [o] wiki
+  * [X] 02435;Abdul Rochman
+  * [X] 01683;Agung Sediyono
+  * [ ] 10075;Agus Salim
+  * [ ] 02461;Ahmad Zuhdi
+  * [ ] 02554;Anung B Ariwibowo
+  * [X] 99324;Binti Solihah
+  * [ ] 10173;Dian Pratiwi
+  * [ ] 01449;Djasli Djamarus
+  * [X] 02472;Gatot Budi Santoso
+  * [X] 99291;Is Mardianto
+  * [ ] 01643;M Najih
+  * [X] 90214;Ratna Shofiati
+  * [ ] 01762;Syaifuddin
+  * [X] 99284;Syandra Sari
+  * [X] 99299;Teddy Siswanto
