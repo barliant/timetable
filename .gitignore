@@ -1,0 +1,7 @@
+*.lyx~
+*.db
+*.s3db
+logbook/
+logbook.rtf
+rawdata/
+sample-reports/
