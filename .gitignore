@@ -12,6 +12,8 @@ logbook/
 logbook.rtf
 rawdata/
 sample-reports/
+sql-scripts/courses-taken.sql
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
