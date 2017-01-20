@@ -1,6 +1,9 @@
 *.lyx~
+.synkron.syncdb
 *.pdf
 *.xls
+*.xlsx
+*.pyc
 *.rtf
 *.csv
 *.db
